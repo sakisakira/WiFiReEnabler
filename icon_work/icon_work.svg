@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icon_work.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="290.78219"
+     inkscape:cy="300.90464"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1499"
+     inkscape:window-height="1002"
+     inkscape:window-x="130"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 371.42412,30.892857 c -116.27089,0 -214.3842,57.86622 -245.46875,137.093743 l 63.375,-0.53125 c 41.32731,-44.83893 108.67668,-74.031247 184.78125,-74.031247 74.34059,0 140.35926,27.854517 181.90625,70.937497 l 59.21875,-0.5 C 582.41199,86.756727 485.66921,30.892857 371.42412,30.892857 z m 245.5625,133.624993 -60.34375,0.5 c 12.49722,13.08311 22.75816,27.55123 30.3125,43.0625 z m -428.28125,3.625 -65.6875,0.5625 34.25,48.40625 c 7.23733,-17.68877 17.93243,-34.16888 31.4375,-48.96875 z"
+       id="path2985"
+       sodipodi:nodetypes="sccsccscccccccc"
+       inkscape:export-filename="D:\sakira_work\Dropbox\work\eclipse\workspace\WiFiReEnabler\icon_work\icon_wifi_work.png"
+       inkscape:export-xdpi="91.099998"
+       inkscape:export-ydpi="91.099998" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 373.26456,141.13227 c -91.724,0 -169.12383,45.74962 -193.64586,108.38771 l 49.99539,-0.42001 c 32.60238,-35.45011 85.73308,-58.52985 145.77059,-58.52985 58.64596,0 110.7269,22.02206 143.50256,56.0839 l 46.7166,-0.3953 C 539.70909,185.29882 463.39045,141.13227 373.26456,141.13227 z m 193.71983,105.64528 -47.60409,0.39531 c 9.85883,10.34364 17.95349,21.78228 23.91297,34.04565 z m -337.86335,2.86596 -51.81968,0.44472 27.0192,38.27047 c 5.7094,-13.98491 14.14658,-27.01426 24.80048,-38.71519 z"
+       id="path2985-7"
+       sodipodi:nodetypes="sccsccscccccccc"
+       inkscape:export-filename="D:\sakira_work\Dropbox\work\eclipse\workspace\WiFiReEnabler\icon_work\icon_wifi_work.png"
+       inkscape:export-xdpi="91.099998"
+       inkscape:export-ydpi="91.099998" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 366.40076,253.98941 c -78.60992,0 -105.54769,25.83594 -137.67539,64.8909 L 253.39,357.87214 c 27.94111,-34.10885 59.33341,-56.31537 110.78714,-56.31537 50.26116,0 101.96697,6.03657 132.0769,44.8706 l 27.91554,-45.83722 C 470.66236,263.14988 443.64105,253.98941 366.40076,253.98941 z"
+       id="path3965"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccsccs"
+       inkscape:export-filename="D:\sakira_work\Dropbox\work\eclipse\workspace\WiFiReEnabler\icon_work\icon_wifi_work.png"
+       inkscape:export-xdpi="91.099998"
+       inkscape:export-ydpi="91.099998" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 368.66618,360.46874 c -45.30058,1.3249 -77.26342,26.70272 -86.15762,37.54147 L 309.1935,430.961 c 11.77867,-14.24954 39.13246,-16.60188 54.2186,-17.18179 26.27897,-1.01015 51.45934,10.04583 66.41698,18.98466 l 28.9257,-41.7779 c -19.16204,-10.31358 -43.18349,-31.88906 -90.0886,-30.51723 z"
+       id="path2985-7-1-2"
+       sodipodi:nodetypes="sccsccs"
+       inkscape:export-filename="D:\sakira_work\Dropbox\work\eclipse\workspace\WiFiReEnabler\icon_work\icon_wifi_work.png"
+       inkscape:export-xdpi="91.099998"
+       inkscape:export-ydpi="91.099998" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m 423.625,649.6875 -65.21875,87.125 27.90625,3.34375 c -20.93052,37.64266 -60.06365,73.78125 -106,73.78125 -48.78083,0 -91.92356,-40.75163 -111.71875,-80.78125 l -46.5625,0 c 20.12691,70.70217 82.23164,122.21875 155.75,122.21875 69.23553,0 128.37229,-45.68753 151.84375,-110.0625 l 36.84375,4.40625 z"
+       id="path3967"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsccsccc"
+       inkscape:export-filename="D:\sakira_work\Dropbox\work\eclipse\workspace\WiFiReEnabler\icon_work\icon_arrow_work.png"
+       inkscape:export-xdpi="91.099998"
+       inkscape:export-ydpi="91.099998" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m 146.50298,720.83659 60.87236,-90.21533 -28.03655,-1.97267 c 19.06134,-38.62281 56.37713,-76.63507 102.25834,-78.88539 48.72225,-2.38968 93.80953,36.19954 115.54192,75.21137 l 46.5066,-2.281 C 420.07934,553.06226 355.52548,504.64993 282.09539,508.25144 c -69.1524,3.39171 -125.98001,51.92139 -146.2697,117.36889 l -37.015367,-2.59606 z"
+       id="path3967-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsccsccc"
+       inkscape:export-filename="D:\sakira_work\Dropbox\work\eclipse\workspace\WiFiReEnabler\icon_work\icon_arrow_work.png"
+       inkscape:export-xdpi="91.099998"
+       inkscape:export-ydpi="91.099998" />
+  </g>
+</svg>

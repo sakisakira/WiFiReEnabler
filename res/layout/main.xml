@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="#404080">
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="WiFi Auto Re-Enabler"
+    android:textColor="#ffffff"
+    android:textSize="20sp"
+    />
+<RadioGroup 
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+  <RadioButton android:text="None"
+    android:id="@+id/noneButton"
+    android:onClick="noneClicked"
+    android:checked="true"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" /> 
+  <RadioButton android:text="Auto Re-Associate"
+    android:id="@+id/reassociateButton"
+    android:onClick="reassociateClicked"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" />
+  <RadioButton android:text="Disconnect then Re-Connect"
+    android:id="@+id/disconnectConnectButton"
+    android:onClick="disconnectConnectClicked"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" />
+</RadioGroup>
+<TextView 
+  android:text="stay in status bar"
+  android:textSize="16sp"
+  android:textColor="#fff"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content" />
+<RadioGroup
+  android:orientation="horizontal"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content" >
+  <RadioButton android:text="always"
+    android:id="@+id/stayAlways"
+    android:onClick="stayButtonClicked"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" />
+  <RadioButton android:text="notify"
+    android:id="@+id/stayNotify"
+    android:onClick="stayButtonClicked"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" />
+  <RadioButton android:text="never"
+    android:id="@+id/stayNever"
+    android:onClick="stayButtonClicked"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" />
+</RadioGroup>
+<TextView android:text="This software automatically turn wifi on and then off when the screen lit on.
+
+With some devices, it would fix the wifi connection problem." 
+    android:id="@+id/TextView01" 
+    android:textSize="16sp"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" />
+<Button android:layout_width="wrap_content" 
+android:layout_height="wrap_content" 
+android:text="about" 
+android:onClick="showAboutAlert" />
+</LinearLayout>
